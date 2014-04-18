@@ -1,0 +1,215 @@
+[
+  {
+    "Service": "LinkedIn",
+    "title": "Juridiction californienne",
+    "Sujet": "Juridiction compétente",
+    "Good/bad/neutral/blocker": "bad",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag",
+    "Score : 0 à 100 (pondération)": 50,
+    "TL;DR": "Article 8 des CGU -Résolution des différends"
+  },
+  {
+    "Service": "Droit applicable : \"\"lois de l'Etat de Californie",
+    "title": "quel que soit votre pays d'origine ou le pays depuis lequel vous accédez à LinkedIn et nonobstant les principes des conflits de lois et la Convention des Nations Unies sur la vente internationale de marchandises\"\""
+  },
+  {
+    "Service": "Tribunal compétent :"
+  },
+  {
+    "Service": "- tribunal d'Etat ou fédéral situé dans le comté de Santa Clara"
+  },
+  {
+    "Service": "- pour une réclamation dont le montant total réclamé est inférieur à 10 000 USD",
+    "title": "possibilité d'arbitrage exécutoire sans comparution\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "Indemnisation limitée à 100$ ou cinq mois de paiement, si la loi locale le permet",
+    "Sujet": "Clause(s) limitative(s) de responsabilité",
+    "Good/bad/neutral/blocker": "bad",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag",
+    "Score : 0 à 100 (pondération)": 70,
+    "TL;DR": "Article 5 (exclusion de responsabilité) et 6 (limitation de responsabilité)"
+  },
+  {
+    "Service": "Il est signalé que suivant les lois nationales en vigueur",
+    "title": "ces clauses pourront ne pas être opposables à l'utilisateur."
+  },
+  {
+    "Service": "Dans toute la mesure permise par la loi en vigueur",
+    "title": "LinkedIn exclut toute déclaration ou garantie implicite",
+    "": "y compris",
+    "Sujet": "de manière non limitative",
+    "Good/bad/neutral/blocker": "toute garantie de qualité marchande",
+    "Source (Titre : URL)": "d'adaptabilité à un usage particulier",
+    "Score : 0 à 100 (pondération)": "de propriété",
+    "TL;DR": "d'exactitude des données et de non-violation des droits d'autrui\"\"\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "L'utilisateur doit indemniser LinkedIn en cas de préjudice causé par lui, sans limite.",
+    "Sujet": "Poursuites possibles",
+    "Good/bad/neutral/blocker": "bad",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag",
+    "Score : 0 à 100 (pondération)": 80,
+    "TL;DR": "Article 2.5 des CGU -Indemnisation"
+  },
+  {
+    "Service": "Vous nous indemnisez et vous nous garantissez contre tout préjudice",
+    "title": "perte ou frais (y compris",
+    "": "mais sans s'y limiter",
+    "Sujet": "les honoraires raisonnables d'avocat) liés aux demandes",
+    "Good/bad/neutral/blocker": "frais ou enquêtes de tiers résultant (1) de votre non-respect des dispositions de ce contrat […]",
+    "Source (Titre : URL)": "(2) tout contenu fourni aux Services",
+    "Score : 0 à 100 (pondération)": "et (3) toute activité dans laquelle vous vous engagez par le biais du site de LinkedIn\"\""
+  },
+  {
+    "Service": ""
+  },
+  {
+    "Service": "Pour les plaintes d'un utilisateur",
+    "title": "voir la Politique de Copyright\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "Linked In n'est pas responsable des liens vers d'autres sites.",
+    "Sujet": "Relations avec les tiers",
+    "Good/bad/neutral/blocker": "neutral",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag",
+    "Score : 0 à 100 (pondération)": 30,
+    "TL;DR": "Article 4.2 des CGU - Sites et développeurs tiers"
+  },
+  {
+    "Service": "LinkedIn peut comprendre ou produire des liens automatiques vers des sites internet de tiers et permet également aux développeurs tiers de créer des applications. Les sites tiers et les applications sont régis par des CGU qui leur sont propres",
+    "title": "LinkedIn n'est pas responsable de leur fonctionnement.\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "Un droit d'utilisation balisé",
+    "Sujet": "Droits accordés aux utilisateurs (licences)",
+    "Good/bad/neutral/blocker": "neutral",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag",
+    "Score : 0 à 100 (pondération)": 20,
+    "TL;DR": "Article 3 des CGU - Vos Droits"
+  },
+  {
+    "Service": "nous vous accordons un droit d'accès limité",
+    "title": "révocable",
+    "": "non exclusif",
+    "Sujet": "non cessible",
+    "Good/bad/neutral/blocker": "et qui ne peut pas faire l'objet d'une sous-licence et le droit d'accéder aux Services […] de voir des informations et d'utiliser les Services que nous fournissons sur des pages Internet LinkedIn [...] Nous réservons tout droit qui n'est pas expressément concédé dans les présentes\"\"\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "Menu de suppression caché dans la politique de confidentialité",
+    "Sujet": "Conditions de résiliation",
+    "Good/bad/neutral/blocker": "bad",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv",
+    "Score : 0 à 100 (pondération)": 70,
+    "TL;DR": "Article 3.1 de la Politique de Confidentialité"
+  },
+  {
+    "Service": "Si vous fermez votre compte",
+    "title": "vos données seront supprimées en principe sous 24 heures. En règle générale",
+    "": "nous effaçons les données des comptes clos et nous rendons anonymes tous les journaux et les autres données de sauvegarde dans un délai de 30 jours suivant la fermeture du compte",
+    "Sujet": "sous réserve des exceptions décrites ci-dessous.\"\" :"
+  },
+  {
+    "Service": ""
+  },
+  {
+    "Service": "Article 3.2 de la Politique de Confidentialité"
+  },
+  {
+    "Service": "pour le respect des obligations légales ou des exigences réglementaires",
+    "title": "pour le règlement de litiges entre Membres",
+    "": "dans un but de prévention de la fraude et de l'abus",
+    "Sujet": "ou pour faire appliquer cet accord\"\""
+  },
+  {
+    "Service": "Conservation de données anonymisées à des fins d'études statistiques et de tendances\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "Traitement des données européennes en Irlande",
+    "Sujet": "Stockage des données (modalités et localisation)",
+    "Good/bad/neutral/blocker": "neutral",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv",
+    "Score : 0 à 100 (pondération)": 40,
+    "TL;DR": "Article 1.1 de la Politique de Confidentialité"
+  },
+  {
+    "Service": "Si vous accédez au site depuis les États-Unis",
+    "title": "alors vos données personnelles sont fournies à ou rassemblées par LinkedIn",
+    "": "Irlande.\"\"\"",
+    "Sujet": "2029 Stierlin Court",
+    "Good/bad/neutral/blocker": "Mountain View",
+    "Source (Titre : URL)": "Californie 94043",
+    "Score : 0 à 100 (pondération)": "USA. Si vous accédez au site en dehors des États-Unis",
+    "TL;DR": "alors vos données personnelles sont fournies à ou rassemblées par LinkedIn"
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "Utilisation de cookies",
+    "Sujet": "Utilisation des cookies",
+    "Good/bad/neutral/blocker": "neutral",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv",
+    "Score : 0 à 100 (pondération)": 40,
+    "TL;DR": "Oui, cf Article 1.8 de la Politique de Confidentialité et la Politique relative aux Cookies"
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "Information préalable pour les modifications substantielles",
+    "Sujet": "Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs",
+    "Good/bad/neutral/blocker": "good",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv",
+    "Score : 0 à 100 (pondération)": 20,
+    "TL;DR": "Introduction de la Politique de Confidentialité"
+  },
+  {
+    "Service": "Nous modifions cette Politique de confidentialité ponctuellement",
+    "title": "et si ne le faisons de façon substantielle",
+    "": "nous vous en informerons par le biais de notifications sur notre site web",
+    "Sujet": "de nos applications ou d'autres services ((“LinkedIn” ou “le Service”)",
+    "Good/bad/neutral/blocker": "ou par tout autre moyen afin que vous puissiez lire les modifications avant de continuer à utiliser LinkedIn. Si vous vous opposez à toute modification",
+    "Source (Titre : URL)": "vous pouvez fermer votre compte. Vous consentez aux modifications de cette Politique de confidentialité par le fait de continuer à utiliser LinkedIn après l'envoi de la notification ou sa publication sur le site de LinkedIn.\"\"\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "effort de pédagogie",
+    "Sujet": "Lisibilité et intelligibilité des CGU",
+    "Good/bad/neutral/blocker": "good",
+    "Source (Titre : URL)": "",
+    "Score : 0 à 100 (pondération)": 20,
+    "TL;DR": "Présentation agréable, résumé de chaque article."
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "utiliser le site de manière professionnelle… et permettre à LinkedIn de se rémunérer grâce à la pub!",
+    "Sujet": "Engagements de la part des utilisateurs",
+    "Good/bad/neutral/blocker": "neutral",
+    "Source (Titre : URL)": "http://www.linkedin.com/legal/user-agreement?trk=hb_ft_userag",
+    "Score : 0 à 100 (pondération)": 50,
+    "TL;DR": "Article 10 des CGU - A faire et à ne pas faire pour les Membres de LinkedIn"
+  },
+  {
+    "Service": "Notamment",
+    "title": "il faut charger une photo de profil ressemblante",
+    "": "utiliser son nom réel",
+    "Sujet": "ne pas créer de profil utilisateur pour une personne morale",
+    "Good/bad/neutral/blocker": "ne pas créer de lien profond (c'est-à-dire ne pas utiliser une url qui dirige vers une page autre que la page d'accueil)",
+    "Source (Titre : URL)": "ne pas bloquer les publicités\""
+  },
+  {
+    "Service": "LinkedIn",
+    "title": "",
+    "Sujet": "Autres informations",
+    "Good/bad/neutral/blocker": "",
+    "Source (Titre : URL)": "",
+    "Score : 0 à 100 (pondération)": "",
+    "TL;DR": ""
+  },
+  {
+    "Service": ""
+  }
+]
