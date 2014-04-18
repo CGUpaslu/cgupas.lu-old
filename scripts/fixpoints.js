@@ -30,8 +30,8 @@ function doFile(fileName) {
           obj.tosdr = {};
           changed = true;
         }
-        if(typeof(obj.tosdr.binding)!='boolean') {
-          obj.tosdr.binding = !(obj.additional);
+        if(typeof(obj.binding)!='boolean') {
+          obj.binding = !(obj.additional);
           changed = true;
         }
  

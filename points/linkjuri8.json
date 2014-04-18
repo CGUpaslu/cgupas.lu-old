@@ -1,18 +1,17 @@
 {
-    "id": "linkjuri8",
-    "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
-    "services": "linkedin",
-    "title": "Juridiction californienne",
-    "topics": "jurisdiction-law",
-    "tosdr": {
-        "point": "bad",
-        "score": "50",
-        "tldr": "Article 8 des CGU -Résolution des différends Droit applicable: « lois de l'Etat de Californie, quel que soit votre pays d'origine ou le pays depuis lequel vous accédez à LinkedIn et nonobstant les principes des conflits de lois et la Convention des Nations Unies sur la vente internationale de marchandises »<br />Tribunal compétent : <ul><li>tribunal d'Etat ou fédéral situé dans le comté de Santa Clara</li><li>pour une réclamation dont le montant total réclamé est inférieur à 10 000 USD, possibilité d'arbitrage exécutoire sans comparution</li></ul>"
-    },
-    "sources": "terms",
-    "binding": "true",
-    "meta": {
-        "author": "Estelle",
-        "license": "CC-BY-SA-4.0"
-    }
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "linkjuri8",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "linkedin",
+  "sources": "terms",
+  "title": "Juridiction californienne",
+  "topics": "jurisdiction-law",
+  "tosdr": {
+    "point": "bad",
+    "score": 50,
+    "tldr": "Article 8 des CGU -Résolution des différends Droit applicable: « lois de l'Etat de Californie, quel que soit votre pays d'origine ou le pays depuis lequel vous accédez à LinkedIn et nonobstant les principes des conflits de lois et la Convention des Nations Unies sur la vente internationale de marchandises »<br />Tribunal compétent : <ul><li>tribunal d'Etat ou fédéral situé dans le comté de Santa Clara</li><li>pour une réclamation dont le montant total réclamé est inférieur à 10 000 USD, possibilité d'arbitrage exécutoire sans comparution</li></ul>"
+  }
 }
